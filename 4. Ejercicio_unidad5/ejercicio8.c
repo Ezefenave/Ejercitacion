@@ -3,7 +3,7 @@
 usuario.
 */
 #include <stdio.h>
-int esPrimo();
+int esPrimo(int numero);
 
 int main()
 {

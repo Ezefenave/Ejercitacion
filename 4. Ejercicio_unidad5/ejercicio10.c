@@ -3,7 +3,7 @@
 */
 
 #include <stdio.h>
-void validador();
+void validador(int numero);
 
 int main(){
     int numero;
