@@ -9,7 +9,14 @@ int sumaDeCuatroNumeros(); //Prototipo de la funcion
 int main(){
     int resultadoSuma;
     resultadoSuma = sumaDeCuatroNumeros();
-    printf("El resultado de la suma de los cuatros numeros es: %d",resultadoSuma );
+    
+    if (resultadoSuma > 100){
+        printf("El resultado de la suma de los cuatros numeros es: %d",resultadoSuma );
+    }
+    else{
+        printf("Valor retornado: 0");
+    }
+    
     return 0;
 }
 

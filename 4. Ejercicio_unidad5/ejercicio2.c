@@ -3,3 +3,12 @@
 ➔ Si es 1 imprima del 15 a 50
 ➔ Si es 0 imprima del 51 al 100.
 */
+
+#include <stdio.h>
+
+int main()
+{
+    return 0;
+}
+
+
