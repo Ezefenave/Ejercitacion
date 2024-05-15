@@ -15,3 +15,16 @@ asegura que el resultado esté en el rango de 0 a 5.
 Se le suma 1 al resultado del operador %. Esto desplaza el rango de 0-5 al rango de 1-6, que es lo que se
 espera en el lanzamiento de un dado.
 */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    return 0;
+}
+
+
+int resultado(){
+    return 0;
+}

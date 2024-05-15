@@ -4,7 +4,7 @@ períodos por mes.
 */
 
 #include <stdio.h>
-float calculador();
+float calculador(float, float, float);
 
 int main()
 {
@@ -23,13 +23,9 @@ int main()
     return 0;
 }
 
-float calculador(){
-    float cantidadDinero;
-    float tasas;
-    int periodoMes;
+float calculador(float cantidadDinero, float tasas, float periodoMes){
+    float total;
 
+    total = cantidadDinero;
     
-
-    
-
 }
